@@ -47,7 +47,7 @@
 		B453369E1D72952E0074946B /* SwiftCourseraUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftCourseraUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B45336A21D72952E0074946B /* SwiftCourseraUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftCourseraUITests.swift; sourceTree = "<group>"; };
 		B45336A41D72952E0074946B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B4C90D6B1D72986E00863354 /* MiniReto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = MiniReto.playground; path = ../../Programs/MiniReto.playground; sourceTree = "<group>"; };
+		B4C90D7B1D72A21A00863354 /* MiniReto.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MiniReto.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +78,7 @@
 		B45336761D72952E0074946B = {
 			isa = PBXGroup;
 			children = (
+				B4C90D7B1D72A21A00863354 /* MiniReto.playground */,
 				B45336811D72952E0074946B /* SwiftCoursera */,
 				B45336961D72952E0074946B /* SwiftCourseraTests */,
 				B45336A11D72952E0074946B /* SwiftCourseraUITests */,
@@ -98,7 +99,6 @@
 		B45336811D72952E0074946B /* SwiftCoursera */ = {
 			isa = PBXGroup;
 			children = (
-				B4C90D6B1D72986E00863354 /* MiniReto.playground */,
 				B45336821D72952E0074946B /* AppDelegate.swift */,
 				B45336841D72952E0074946B /* ViewController.swift */,
 				B45336861D72952E0074946B /* Main.storyboard */,
